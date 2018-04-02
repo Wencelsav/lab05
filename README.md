@@ -1,1 +1,1 @@
-<фрагмент_вставки_значка>
+https://travis-ci.org/Wencelsav/vector
